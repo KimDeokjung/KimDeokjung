@@ -1,4 +1,4 @@
-# Hello, I'm MinJi Kim 👋
+# Hello, I'm DeokJung Kim 👋
 
 ## 🚀 About Me
 
