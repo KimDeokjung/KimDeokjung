@@ -4,6 +4,10 @@
 
 - I'm a Backend Engineer.
 
+[![Anurag's GitHub stats](https://github-readme-stats-six-pi-98.vercel.app/api?username=KimDeokjung&hide_rank=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejrwnd1103)](https://solved.ac/ejrwnd1103/)
+
 ## 🛠 Skills
 
 <p>
