@@ -35,6 +35,9 @@
   <br/>
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejrwnd1103)](https://solved.ac/ejrwnd1103)
+
 ## 📫 How to reach me
 
 You can reach me at [ejrwnd1103@naver.com](mailto:ejrwnd1103@naver.com).
